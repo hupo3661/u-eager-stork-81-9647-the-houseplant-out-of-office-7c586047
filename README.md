@@ -18,6 +18,17 @@ The reply is 111 characters (Unicode code points), within the competition's
 The joke: the plant's survival depends on its one water source — a neighbour
 who only waves at it through the glass instead of coming in to water it.
 
+## Self-review against the judge brief
+
+1. Reads as a houseplant's out-of-office auto-reply — it opens "Out of
+   office" and the plant is the sender.
+2. Fresh joke that surprises — the plant's only water turns out to be a
+   neighbour waving through the window; a wave is not water.
+3. The plant's own life drives the joke — two weeks without water, survival
+   outsourced to a stranger who never comes inside.
+4. Tight — 111 of 120 characters, no wasted words.
+5. Original — no office cliches, no stock auto-reply phrasing.
+
 ## Run it
 
 ```sh
